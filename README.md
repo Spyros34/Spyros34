@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Spyros34](https://github.com/Spyros34)
 
-*<h3 align="left">Connect with me:</h3>*
+[comment]: <> <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
