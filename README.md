@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyros34" alt="spyros34" /></a> </p>
 
-- 🔭 My latest project is [ErasmApp](https://github.com/Spyros34/Erasmus-Website-full_stack)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Spyros34](https://github.com/Spyros34)
 
